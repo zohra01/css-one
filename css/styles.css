@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    }
+
+    .one{
+        background-color: white;
+        height: 50vh;
+        width: 100%;
+        padding-left: 400px;
+
+    }
+
+    h1
+    {
+        font-size: 50px;
+        color: lightseagreen;
+        padding: 10px;
+        margin: 5px;
+
+    }
+
+    h2
+    {
+        font-size: 30px;
+        color: lightgreen;
+        padding: 10px;
+        margin: 5px;
+
+    }
+
+    .zu
+    {
+        background-color: lightseagreen;
+        height: 50vh;
+        width: 50%;
+        float: left;
+
+    }
+
+    .fa
+    {
+        font-size: 50px;
+        color: white;
+        padding: 30px;
+        margin: 10px;
+
+    }
+
+   
+    .zo {
+        background-color: lightskyblue;
+        float: left;
+        height: 50vh;
+        width: 50%;
+
+    }
+
+    .two {
+        font-size: 50px;
+        color: white;
+        padding: 10px;
+        margin: 5px;
+
+    }
+
+    .button {
+        background-color: green;
+        color: white;
+        padding: 20px;
+        margin: 100px;
+
+    }
